@@ -155,9 +155,8 @@ Execute the program using runserver command.
 
 ## OUTPUT
 
-![image](https://github.com/rahulramakrishnann/Exp-3-Slottable-webdev/assets/143045415/93b42858-1a40-4d3a-a9de-11c744041c18)
-![image](https://github.com/rahulramakrishnann/Exp-3-Slottable-webdev/assets/143045415/9cf91a00-7f5b-418b-bd08-6ef391706c52)
-
+![image](https://github.com/rahulramakrishnann/Exp-3-slottiletable--web/assets/143045415/1927d14b-b8a2-475c-9ef7-5ac2057e8e72)
+![image](https://github.com/rahulramakrishnann/Exp-3-slottiletable--web/assets/143045415/994de6ee-c387-417c-9bbd-301e1e0d9afa)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
